@@ -1,0 +1,57 @@
+2019-09-18 16:50:09.900376	策略初始化完成
+2019-09-18 16:50:09.900402	开始回放历史数据
+2019-06-14 08:34:00 u19开空 Z19开多 U19:price=8329.5,Z19:price=8260.0,volume=13110.0,volume_short_pre=13110.0,volume_long_next=13110.0
+2019-06-14 08:35:00 u19开空 Z19开多 U19:price=8324.0,Z19:price=8308.0,volume=1596.0,volume_short_pre=14706.0,volume_long_next=14706.0
+2019-06-14 08:36:00 u19开空 Z19开多 U19:price=8321.5,Z19:price=8336.5,volume=10200.0,volume_short_pre=24906.0,volume_long_next=24906.0
+2019-06-14 08:37:00 u19开空 Z19开多 U19:price=8321.0,Z19:price=8317.5,volume=500.0,volume_short_pre=25406.0,volume_long_next=25406.0
+2019-06-14 08:38:00 u19开空 Z19开多 U19:price=8319.0,Z19:price=8327.5,volume=4001.0,volume_short_pre=29407.0,volume_long_next=29407.0
+2019-06-14 08:39:00 u19开空 Z19开多 U19:price=8317.0,Z19:price=8362.5,volume=1.0,volume_short_pre=29408.0,volume_long_next=29408.0
+2019-06-14 08:40:00 u19开空 Z19开多 U19:price=8311.5,Z19:price=8352.5,volume=851.0,volume_short_pre=30259.0,volume_long_next=30259.0
+2019-06-14 08:41:00 u19开空 Z19开多 U19:price=8310.0,Z19:price=8335.0,volume=14033.0,volume_short_pre=44292.0,volume_long_next=44292.0
+2019-06-14 08:42:00 u19开空 Z19开多 U19:price=8309.5,Z19:price=8329.5,volume=1.0,volume_short_pre=44293.0,volume_long_next=44293.0
+2019-06-14 08:43:00 u19开空 Z19开多 U19:price=8308.5,Z19:price=8329.5,volume=2500.0,volume_short_pre=46793.0,volume_long_next=46793.0
+2019-06-14 08:44:00 u19开空 Z19开多 U19:price=8308.0,Z19:price=8329.5,volume=17679.0,volume_short_pre=64472.0,volume_long_next=64472.0
+2019-06-14 08:45:00 u19开空 Z19开多 U19:price=8307.5,Z19:price=8328.0,volume=6188.0,volume_short_pre=70660.0,volume_long_next=70660.0
+2019-06-14 08:46:00 u19开空 Z19开多 U19:price=8307.5,Z19:price=8328.0,volume=18001.0,volume_short_pre=88661.0,volume_long_next=88661.0
+2019-06-14 08:47:00 u19开空 Z19开多 U19:price=8307.0,Z19:price=8330.5,volume=16596.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-06-25 12:22:00 =平仓 U19空仓 Z19多仓 U19:price=11491.5,Z19:price=11848.0,volume_short_pre=0.0,volume_long_next=0.0
+2019-06-25 12:23:00 u19开空 Z19开多 U19:price=11586.5,Z19:price=11638.0,volume=233702.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-06-26 20:36:00 =平仓 U19空仓 Z19多仓 U19:price=13897.0,Z19:price=14300.0,volume_short_pre=0.0,volume_long_next=0.0
+2019-06-26 20:37:00 U19开多 Z19开空 U19:price=13437.5,Z19:price=14300.0,volume=554160.0,volume_long_pre=100000,volume_short_next=100000
+2019-06-26 20:43:00 =平仓 U19多仓 Z19空仓 U19:price=12488.0,Z19:price=12158.0,volume_long_pre=0,volume_short_next=0
+2019-06-26 20:44:00 u19开空 Z19开多 U19:price=12727.0,Z19:price=12590.5,volume=501100.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-06-26 20:45:00 =平仓 U19空仓 Z19多仓 U19:price=12445.5,Z19:price=12753.0,volume_short_pre=0.0,volume_long_next=60594.0
+2019-06-26 20:46:00 =平仓 U19空仓 Z19多仓 U19:price=12123.5,Z19:price=12533.5,volume_short_pre=0.0,volume_long_next=0.0
+2019-06-26 20:49:00 U19开多 Z19开空 U19:price=12723.0,Z19:price=13104.0,volume=349200.0,volume_long_pre=100000,volume_short_next=100000
+2019-06-26 21:14:00 =平仓 U19多仓 Z19空仓 U19:price=12561.0,Z19:price=12564.5,volume_long_pre=0,volume_short_next=0
+2019-06-26 21:15:00 u19开空 Z19开多 U19:price=12507.0,Z19:price=12353.5,volume=1170642.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-06-26 23:27:00 =平仓 U19空仓 Z19多仓 U19:price=13239.5,Z19:price=13540.0,volume_short_pre=0.0,volume_long_next=0.0
+2019-06-26 23:30:00 U19开多 Z19开空 U19:price=13276.0,Z19:price=13579.5,volume=67240.0,volume_long_pre=67240.0,volume_short_next=67240.0
+2019-06-26 23:31:00 U19开多 Z19开空 U19:price=13295.5,Z19:price=13596.0,volume=143157.0,volume_long_pre=100000.0,volume_short_next=100000.0
+2019-06-27 08:52:00 =平仓 U19多仓 Z19空仓 U19:price=12518.5,Z19:price=12480.0,volume_long_pre=0.0,volume_short_next=0.0
+2019-06-27 08:53:00 u19开空 Z19开多 U19:price=12504.5,Z19:price=12480.0,volume=426749.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-06-28 10:12:00 =平仓 U19空仓 Z19多仓 U19:price=12197.0,Z19:price=12508.5,volume_short_pre=0.0,volume_long_next=0.0
+2019-06-28 10:20:00 U19开多 Z19开空 U19:price=12132.0,Z19:price=12433.0,volume=123076.0,volume_long_pre=100000.0,volume_short_next=100000.0
+2019-06-30 12:42:00 =平仓 U19多仓 Z19空仓 U19:price=11840.0,Z19:price=11936.5,volume_long_pre=93746.0,volume_short_next=90641.0
+2019-06-30 12:51:00 =平仓 U19多仓 Z19空仓 U19:price=11870.0,Z19:price=11969.0,volume_long_pre=15241.0,volume_short_next=90447.0
+2019-06-30 12:57:00 =平仓 U19多仓 Z19空仓 U19:price=11886.5,Z19:price=11975.5,volume_long_pre=14040.0,volume_short_next=90347.0
+2019-06-30 13:31:00 =平仓 U19多仓 Z19空仓 U19:price=11735.0,Z19:price=11834.0,volume_long_pre=0.0,volume_short_next=24718.0
+2019-06-30 13:51:00 =平仓 U19多仓 Z19空仓 U19:price=11461.5,Z19:price=11531.0,volume_long_pre=0.0,volume_short_next=0.0
+2019-06-30 16:04:00 u19开空 Z19开多 U19:price=11210.0,Z19:price=11300.0,volume=128835.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-07-04 23:09:00 =平仓 U19空仓 Z19多仓 U19:price=11442.5,Z19:price=11772.5,volume_short_pre=0.0,volume_long_next=0.0
+2019-07-08 20:51:00 U19开多 Z19开空 U19:price=12518.0,Z19:price=12820.0,volume=56837.0,volume_long_pre=56837.0,volume_short_next=56837.0
+2019-07-08 20:53:00 U19开多 Z19开空 U19:price=12539.5,Z19:price=12840.0,volume=7347.0,volume_long_pre=64184.0,volume_short_next=64184.0
+2019-07-08 20:55:00 U19开多 Z19开空 U19:price=12539.5,Z19:price=12844.5,volume=10410.0,volume_long_pre=74594.0,volume_short_next=74594.0
+2019-07-08 21:14:00 U19开多 Z19开空 U19:price=12577.5,Z19:price=12878.5,volume=14433.0,volume_long_pre=89027.0,volume_short_next=89027.0
+2019-07-08 21:19:00 U19开多 Z19开空 U19:price=12570.0,Z19:price=12870.5,volume=92412.0,volume_long_pre=100000.0,volume_short_next=100000.0
+2019-07-14 15:48:00 =平仓 U19多仓 Z19空仓 U19:price=10500.0,Z19:price=10589.5,volume_long_pre=0.0,volume_short_next=0.0
+2019-07-14 15:49:00 u19开空 Z19开多 U19:price=10425.5,Z19:price=10477.0,volume=1096357.0,volume_short_pre=100000.0,volume_long_next=100000.0
+2019-08-10 11:27:00 =平仓 U19空仓 Z19多仓 U19:price=11966.0,Z19:price=12278.0,volume_short_pre=0.0,volume_long_next=0.0
+2019-08-10 11:28:00 U19开多 Z19开空 U19:price=11854.5,Z19:price=12176.5,volume=1017331.0,volume_long_pre=100000.0,volume_short_next=100000.0
+2019-08-22 04:16:00 =平仓 U19多仓 Z19空仓 U19:price=10003.5,Z19:price=10103.0,volume_long_pre=0.0,volume_short_next=0.0
+2019-08-22 04:19:00 u19开空 Z19开多 U19:price=10011.5,Z19:price=10109.0,volume=121281.0,volume_short_pre=100000.0,volume_long_next=100000.0
+short_pre 0.0 -778695516.5
+long_next 0.0 1012165835.0
+long_pre 0.0 -604513158.5
+short_next 0.0 877230908.5
+earn 506188068.5
